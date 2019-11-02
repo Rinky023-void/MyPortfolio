@@ -1,0 +1,85 @@
+.jumbotron-extend 
+{
+    position: relative;
+    height: 100vh;
+    min-height: 200px;
+    background-image: url(../image/bg.jpg);
+    background-size: cover;
+    margin: 0;
+}
+
+.jumbotron-container 
+{
+    color: #000;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.site-name 
+{
+    margin-bottom: 40px;
+    font-family: 'Playfair Display', serif;
+}
+.btn-black 
+{
+    border-radius: 0;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Avenir', serif;
+}
+.btn-black:hover 
+{
+     background-color: #fff;
+     color: #000;
+}
+
+.sns-button 
+{
+    bottom: 40px;
+}
+
+.profile
+{
+    
+    height: 100vh;
+    min-height: 200px;
+    background-size: cover;
+    margin: 0;
+}
+
+.prof-name
+{
+    color: #000;
+    position: relative;
+    text-align: center;
+    top: 20%;
+    
+    margin-bottom: 40px;
+    font-family: 'Playfair Display', serif;
+}
+
+.prof-area
+{
+    margin: auto;
+    text-align: center;
+    padding: 30px 20px 20px 20px;
+    
+}
+
+.skills
+{
+    background-image: url(../image/skill.jpg);
+    height: 100vh;
+    min-height: 200px;
+    background-size: cover;
+    margin: 0;
+}
+
+.skill-area
+{
+    margin: auto;
+    text-align: center;
+    padding: 30px 20px 20px 20px;
+    
+}
