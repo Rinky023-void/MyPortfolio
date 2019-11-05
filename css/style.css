@@ -78,8 +78,15 @@
 
 .skill-area
 {
+    display: flex;
     margin: auto;
     text-align: center;
     padding: 30px 20px 20px 20px;
     
+}
+
+.flexitem
+{
+    flex-wrap: wrap;
+    justify-content: center;
 }
